@@ -1,3 +1,6 @@
+---
+permalink: /gizlilik-politikasi.html
+---
 # Koleksiyon Dünyası – Gizlilik Politikası
 
 **Son güncelleme: 15 Kasım 2026**
